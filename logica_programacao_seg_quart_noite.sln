@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex01", "ex01\ex01.csproj", "{4BCE9E41-6C9C-457D-9E73-ACD4AEC87E0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex01", "ex01\ex01.csproj", "{4BCE9E41-6C9C-457D-9E73-ACD4AEC87E0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02", "..\..\..\..\..\repositorio\ex02\ex02.csproj", "{6B766F2E-CA7A-4918-BA76-0E0AC1ED9CFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex02", "..\..\..\..\..\repositorio\ex02\ex02.csproj", "{6B766F2E-CA7A-4918-BA76-0E0AC1ED9CFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex03", "ex03\ex03.csproj", "{84FB5032-37C7-46F7-808A-4510A285C010}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex03", "ex03\ex03.csproj", "{84FB5032-37C7-46F7-808A-4510A285C010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex04", "ex04\ex04.csproj", "{C0197CAF-77C6-464D-A293-5D5B45689940}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{84FB5032-37C7-46F7-808A-4510A285C010}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84FB5032-37C7-46F7-808A-4510A285C010}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84FB5032-37C7-46F7-808A-4510A285C010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0197CAF-77C6-464D-A293-5D5B45689940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0197CAF-77C6-464D-A293-5D5B45689940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0197CAF-77C6-464D-A293-5D5B45689940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0197CAF-77C6-464D-A293-5D5B45689940}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
