@@ -1,0 +1,15 @@
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\bin\Debug\net8.0\ex07.exe
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\bin\Debug\net8.0\ex07.deps.json
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\bin\Debug\net8.0\ex07.runtimeconfig.json
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\bin\Debug\net8.0\ex07.dll
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\bin\Debug\net8.0\ex07.pdb
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\obj\Debug\net8.0\ex07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\obj\Debug\net8.0\ex07.AssemblyInfoInputs.cache
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\obj\Debug\net8.0\ex07.AssemblyInfo.cs
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\obj\Debug\net8.0\ex07.csproj.CoreCompileInputs.cache
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\obj\Debug\net8.0\ex07.sourcelink.json
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\obj\Debug\net8.0\ex07.dll
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\obj\Debug\net8.0\refint\ex07.dll
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\obj\Debug\net8.0\ex07.pdb
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\obj\Debug\net8.0\ex07.genruntimeconfig.cache
+C:\Users\wilder.rsantos\source\repos\logica_programacao_seg_quart_noite\ex07\obj\Debug\net8.0\ref\ex07.dll

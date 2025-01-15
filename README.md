@@ -4,3 +4,4 @@
 # logicadeprogramcao
 #logicadeprogramcao
 # logicadeprogramacao3
+# exercícios

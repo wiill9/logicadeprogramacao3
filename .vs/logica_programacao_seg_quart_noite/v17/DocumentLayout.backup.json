@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CBDAC9A9-76F3-425C-9A16-2C5C26775934}|ex07\\ex07.csproj|c:\\users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDAC9A9-76F3-425C-9A16-2C5C26775934}|ex07\\ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05453A0B-CAC1-420C-A328-1FD4D9D36C67}|ex06\\ex06.csproj|c:\\users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05453A0B-CAC1-420C-A328-1FD4D9D36C67}|ex06\\ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52807465-1B83-4D5E-994C-805F45FD15C5}|ex05\\ex05.csproj|c:\\users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52807465-1B83-4D5E-994C-805F45FD15C5}|ex05\\ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0197CAF-77C6-464D-A293-5D5B45689940}|ex04\\ex04.csproj|c:\\users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0197CAF-77C6-464D-A293-5D5B45689940}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,18 +43,57 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex07\\Program.cs",
+              "RelativeDocumentMoniker": "ex07\\Program.cs",
+              "ToolTip": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex07\\Program.cs",
+              "RelativeToolTip": "ex07\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T22:36:16.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex06\\Program.cs",
+              "RelativeDocumentMoniker": "ex06\\Program.cs",
+              "ToolTip": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex06\\Program.cs",
+              "RelativeToolTip": "ex06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:50:06.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex05\\Program.cs",
+              "RelativeDocumentMoniker": "ex05\\Program.cs",
+              "ToolTip": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex05\\Program.cs",
+              "RelativeToolTip": "ex05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:37:53.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
-              "ToolTip": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex04\\Program.cs*",
-              "RelativeToolTip": "ex04\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex04\\Program.cs",
+              "RelativeToolTip": "ex04\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T00:13:12.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ex03.csproj",
               "DocumentMoniker": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex03\\ex03.csproj",
               "RelativeDocumentMoniker": "ex03\\ex03.csproj",
@@ -50,12 +101,11 @@
               "RelativeToolTip": "ex03\\ex03.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-13T22:06:39.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T22:06:39.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
@@ -63,12 +113,11 @@
               "RelativeToolTip": "ex03\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T22:05:48.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T22:05:48.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\repositorio\\ex02\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\repositorio\\ex02\\Program.cs",
@@ -76,8 +125,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\repositorio\\ex02\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T21:47:52.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T21:47:52.647Z"
             }
           ]
         }
