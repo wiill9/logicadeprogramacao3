@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex 14\\ex 14.csproj",
-      "projectName": "ex 14",
-      "projectPath": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex 14\\ex 14.csproj",
+      "projectUniqueName": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex 14\\ex14.csproj",
+      "projectName": "ex14",
+      "projectPath": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex 14\\ex14.csproj",
       "packagesPath": "C:\\Users\\wilder.rsantos\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\wilder.rsantos\\source\\repos\\logica_programacao_seg_quart_noite\\ex 14\\obj\\",
       "projectStyle": "PackageReference",
