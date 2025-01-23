@@ -1,4 +1,4 @@
-﻿//Se o usuário tiver até 10 anos aparecer a mensagem "você é uma criança", entre 10 e 14 "você é um pré adolecente" entre 15 e 17 "você é um adolecente" entre 18 e 60 "você é um adulto" maiores que 60 "você está na melhor idade". Você não deve apagar nenhum código abaixo
+﻿//Se o usuário tiver até 10 anos aparecer a mensagem "você é uma criança", entre 10 e 14 "você é um pré adolecente" entre 15 e 17 "você é um adolecente" entre 18 e 60 "você é um adulto" maiores que 60 "você está na melhor idade". Você não deve apagar nenhum código abaixo.
 
 using System.ComponentModel.Design;
 
